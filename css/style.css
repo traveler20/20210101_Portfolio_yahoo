@@ -356,7 +356,7 @@ li {
 .rate:after {
 	overflow: hidden;
 	white-space: nowrap;
-	color: #0b2b50;
+	color: #ff0033;
 }
 
 .rate1:after {
@@ -438,7 +438,7 @@ li {
 	padding: 10px;
 	cursor: pointer;
 	text-align: center;
-	background-color: #0b2b50;
+	background-color: #ff0033;
 }
 
 /*media Queries 767
